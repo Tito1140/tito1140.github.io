@@ -1,0 +1,9 @@
+h1{
+    border: 5px;
+    border-style: groove;
+    color: blue;
+    font-size: 25px;
+    background-color: antiquewhite;
+    float: left;
+    width: 33.33%;
+}
